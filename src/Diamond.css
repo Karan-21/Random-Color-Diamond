@@ -1,0 +1,12 @@
+.colorBox{
+    width: 0.3vw;
+    height: 0.3vw;
+    border-radius: 50%;
+}
+
+.datarow{
+    width: 512px;
+    height: 512px;
+    margin: 0;
+    padding: 0;
+}

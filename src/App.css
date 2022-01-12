@@ -1,0 +1,10 @@
+.colorBox {
+  width: 5px;
+  height: 5px;
+}
+.datarow {
+  width: 512px;
+  height: 512px;
+  margin: 0;
+  padding: 0;
+}
